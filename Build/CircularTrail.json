@@ -1,13 +1,16 @@
 {
 "companyName": "shiena",
 "productName": "CircularTrail",
+"productVersion": "0.1",
 "dataUrl": "CircularTrail.data.unityweb",
 "wasmCodeUrl": "CircularTrail.wasm.code.unityweb",
 "wasmFrameworkUrl": "CircularTrail.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.3f1"
 }
